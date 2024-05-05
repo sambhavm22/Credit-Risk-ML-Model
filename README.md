@@ -1,6 +1,7 @@
 **Credit Risk Modeling Machine Learning Project** 
 
 ***Introduction***
+
 The goal is to create a machine learning model that can precisely segregate customers into class of giving credit based on past financial data and other pertinent borrower characteristics which allow financial institutions to determine the risk of lending to them. Such models can help thenm identify and measure their total risk exposure, set appropriate risk limits, and make informed investment decisions.
 
 
