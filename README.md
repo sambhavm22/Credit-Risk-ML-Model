@@ -21,16 +21,9 @@ Python 3, sklearn, numpy, XGBoost, scipy, pandas and matplotlib
 
 First, train the data on random forest algorithm (accuracy-76%)and then we train the model on XGBoost classifer algorithm (accuracy - 77%). With hyperparameter tuning of XGBoost classifer, the accuracy is 78%.
 
-<img width="400" alt="image" src="https://github.com/sambhavm22/Credit-Risk-ML-Model/assets/58766591/aa41c9fa-c6a9-4019-96df-a9e6e711d267">
 
 **F1 Score for each class**
 
 <img width="400" alt="image" src="https://github.com/sambhavm22/Credit-Risk-ML-Model/assets/58766591/fc047618-68f6-4b43-beba-e499ed385aeb">
-
-Algorithm
-
-
-
-
 
 For detailed documentation of this project visit https://github.com/sambhavm22/Credit-Risk-ML-Model/blob/main/Documents/credit%20risk%20model%20documentation.pdf
