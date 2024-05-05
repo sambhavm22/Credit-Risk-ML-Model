@@ -27,6 +27,6 @@ First, train the data on random forest algorithm (accuracy-76%)and then we train
 
 <img width="400" alt="image" src="https://github.com/sambhavm22/Credit-Risk-ML-Model/assets/58766591/fc047618-68f6-4b43-beba-e499ed385aeb">
 
-For detailed documentation of this project visit [
+For detailed documentation of this project visit :
 
 https://medium.com/@sambhavm22/credit-risk-model-3120b99073c4
